@@ -1,3 +1,6 @@
+A Senior engineer is usually trusted to own a difficult system or feature end to end.
+A Lead or Staff engineer is trusted to improve the quality of decisions and execution around a larger problem.
+
 
 Two ideas for tomorrow
 
@@ -7,6 +10,16 @@ How can you help the team more?
 • identifying constraints and trade-offs
 • aligning stakeholders
 • Systematic - own an end-to-end production system
+
+Dimension	Strong Senior	Lead pattern	Staff pattern
+Decisions	Makes local design decisions (think I'm here)	Integrates product, architecture, delivery, operations, and control decisions	Resolves ambiguous cross-team trade-offs and defines reusable direction
+Leverage	Own output and local mentoring	Improves team execution and predictability	Creates standards, components, and clarity used beyond one team
+(same as below)
+Delivery judgment	Manage scope, dependencies, risks, priorities, and incremental proof	Make team delivery predictable	Unblock multi-team decisions and long-horizon evolution
+Architecture and systems thinking	Explicit boundaries, contracts, scale, failure modes, security, cost, and evolution	Translate architecture into an executable roadmap	Resolve cross-cutting trade-offs and create reusable direction
+            
+
+
 
 how should you frame questions or answers - not emotionally, but strategic or 
 set architecture and standards for a team or domain
